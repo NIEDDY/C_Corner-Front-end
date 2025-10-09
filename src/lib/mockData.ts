@@ -205,7 +205,7 @@ export const banners = [
     id: '3',
     title: 'Elevate Your Brand',
     subtitle: 'Custom branding and creative design solutions that make an impact',
-    image: 'https://images.unsplash.com/photo-1758539197206-f66723e880a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjcmVhdGl2ZSUyMGJyYW5kaW5nJTIwZGVzaWdufGVufDF8fHx8MTc1OTkxMzc0OXww&ixlib=rb-4.1.0&q=80&w=1080',
+    image: 'https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto/v1556727414/1556727413.jpg',
     cta: 'Get Started'
   }
 ];
